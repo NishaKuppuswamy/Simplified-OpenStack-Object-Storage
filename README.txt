@@ -1,9 +1,8 @@
-Welcome to P1 Assignment in Python 3.4
-	:From Nisha Kuppuswamy
+Welcome to OpenStack in Python 3.4
 
 Folder Structure
 
-P1
+OpenStack
  |__ _init_.py
  |__ client
      |__ operation
